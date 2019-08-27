@@ -1,6 +1,6 @@
-This repository contains the code and data for my "Machine Learning for Handling Missing Data in Wearable Electromyographic Systems" final project.
+## This repository contains the code and data for my "Machine Learning for Handling Missing Data in Wearable Electromyographic Systems" final project.
 
-TABLE OF CONTENTS:
+#### TABLE OF CONTENTS:
 
 1. FuncAndParams.py - This file contains functions and parameters needed to run the rest of the files. Please run this file first.
 

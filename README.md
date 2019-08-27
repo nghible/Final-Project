@@ -1,6 +1,6 @@
 ## This repository contains the code and data for my "Machine Learning for Handling Missing Data in Wearable Electromyographic Systems" final project.
 
-The official report has not beed released.
+The official report has not been released.
 
 #### TABLE OF CONTENTS:
 

@@ -1,6 +1,6 @@
 ## This repository contains the code and data for my "Machine Learning for Handling Missing Data in Wearable Electromyographic Systems" final project.
 
-The project can summarized as follows. First, the missing data is simulated under two different assumptions: Missing Completely at Random, and Missing Under Gait Assumptions. For each assumption, this project implements five different imputation methods: zero-imputation, mean-imputation, K-Nearest Neighbors, Gaussian Process, and Predictive Mean Matching on the raw EMG signal and study their effectiveness.
+The project can be summarized as follows. First, the missing data is simulated under two different assumptions: Missing Completely at Random, and Missing Under Gait Assumptions. For each assumption, this project implements five different imputation methods: zero-imputation, mean-imputation, K-Nearest Neighbors, Gaussian Process, and Predictive Mean Matching on the raw EMG signal and study their effectiveness.
 
 The final report is available upon request.
 

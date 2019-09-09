@@ -2,7 +2,7 @@
 
 The project can be summarized as follows. First, the missing data is simulated under two different assumptions: Missing Completely at Random, and Missing Under Gait Assumptions. For each assumption, this project implements five different imputation methods: zero-imputation, mean-imputation, K-Nearest Neighbors, Gaussian Process, and Predictive Mean Matching on the raw EMG signal and study their effectiveness.
 
-The final report is available upon request.
+The final report is available here: https://drive.google.com/file/d/1opO8s8WlVKeHu3qXj9SBhkTk5SYA-hKq/view?usp=sharing
 
 #### TABLE OF CONTENTS:
 
